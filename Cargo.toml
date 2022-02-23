@@ -1,0 +1,10 @@
+[package]
+name = "nextest-json-suite-overwrite"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "nextest-json-suite-overwrite"
+path = "src/main.rs"
+
+[dependencies]
